@@ -26,3 +26,10 @@ class ViewController: UIViewController {
     
 }
 
+/*
+ Don’t Commit:
+ lets you skip the change so that it won’t be committed with other changes, but it will remain in the local source code.
+ Discard :
+ Changes not only skips the change, but also deletes it from the local source code.
+ 
+ */
